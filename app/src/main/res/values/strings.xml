@@ -1,0 +1,101 @@
+<resources>
+    <string name="app_name">SleeveCoach</string>
+
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+
+    <!-- Menu Strings -->
+
+    <string name="mt_home">Home</string>
+    <string name="mt_goalsetting">Goals/Settings</string>
+    <string name="mt_protein">Protein</string>
+    <string name="mt_water">Water</string>
+    <string name="mt_exercise">Exercise</string>
+    <string name="mt_vitamins">Vitamins</string>
+    <string name="mt_weight">Weight</string>
+    <string name="mt_tutorial">Tutorial</string>
+    <string name="mt_5dayreset">5-Day Reset</string>
+    <string name="mt_eatfeeling">I\'m Eating/I\'m Feeling</string>
+    <string name="mt_history">History</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_save">Save</string>
+    <string name="action_allentries">All Entries</string>
+
+    <string name="action_settings">Settings</string>
+
+
+    <!-- Picker -->
+    <string name="pickerview_cancel">Done</string>
+    <string name="pickerview_submit">+</string>
+    <string name="pickerview_year">年</string>
+    <string name="pickerview_month">月</string>
+    <string name="pickerview_day">日</string>
+    <string name="pickerview_hours">时</string>
+    <string name="pickerview_minutes">分</string>
+    <string name="pickerview_seconds">秒</string>
+
+    <string name="str_summary">Summary</string>
+    <string name="str_goal">Goal</string>
+    <string name="str_today">Today</string>
+    <string name="str_yesterday">Yesterday</string>
+    <string name="str_track_vitamin_subtitle">Track taking your vitamins below.</string>
+    <string name="str_track_vitamin_subdesc">Toggle on/off for taking your vitamins.</string>
+    <string name="str_track_weight_subtitle">Enter your weight today below\n(tap the number):</string>
+    <string name="str_fivedayreset"><![CDATA[<html><h3>5-day Pouch Reset</h3>
+    <p/><p/>
+
+Courtesy: <a href="http://www.5daypouchtest.com">http://www.5daypouchtest.com</a>
+Use the 5-day pouch reset to get your program back on track. Follow this food plan exactly to give your sleeve, pouch, or band a resting and reset period. Use the time to analyze your eating and to get moving again!
+
+<p/>
+<b>Days One and Two: Liquid Proteins</b><br/>
+Goal: Give your stomach a period of healing and rest.
+Examples: Low-carb protein shakes, broth, clear soups, cream soups, sugar-free jello, sugar-free pudding.
+<p/>
+<b>Day Three: Soft Proteins</b><br/>
+Goal: Gradually reintroduce solids to your stomach, starting with soft proteins.
+Examples: Eggs, canned tuna, canned salmon, fresh soft fish, yogurt, cottage cheese, string cheese, tofu, and anything from days 1-2.
+<p/>
+<b>Day Four: Firm Proteins</b><br/>
+Goal: With the carb cycle broken, rebuild your diet with a focus on proteins first.
+Examples: ground meat (slightly seasoned), shellfish, scallops, lobster, salmon, veggie burgers, and anything from days 1-3.
+<p/>
+<b>Day Five: Solid Proteins</b><br/>
+Goal: Return to your program with a continued focus on proteins first, followed by vegetables. Examples: Poultry, steak, pork, lamb, and anything from days 1-4.
+</html>]]></string>
+    <string name="str_tutorial"><![CDATA[<html>
+<h3>
+HOW TO USE SLEEVE COACH: </h3>
+
+<p>
+<b>Sleeve Coach</b> is a holistic approach that will coach you through your weight loss surgery program and help keep you on track. It’s best used in conjunction with other apps that track food intake or exercise caloric burn. Sleeve Coach helps you focus on the core elements of the weight loss surgery program: Protein, Water, Exercise, Vitamins, and Emotional Eating.
+</p>
+<p/>
+<b>Stay on track</b>  by earning up to 10 stars per day. Earn 3 stars for meeting EACH of your protein, exercise, and water goals. Earn an additional star for making sure to take your vitamins.
+<p/>
+<b>The home screen</b>  lets you know how you’re doing so far today, and how you did yesterday. The sections for protein, water, and exercise show progress meters toward earning 1, 2, and finally, 3 stars. It also shows your vitamin intake.
+<p/>
+<b>Swipe right</b>  to access the menu, or touch the three bars at the top-left of the home screen. You’ll see the current number of stars you’ve earned reflected in the menu.
+<p/>
+Start by <b>setting your goals. </b>  You can change today’s goals, but goals for yesterday and earlier remain set to what they were yesterday. Simply touch the “New Goal” box to enter your new goal. There are minimums that you can’t go below: 60g for Protein, 64oz for Water, and 30min for Exercise. Each day you must exercise for 30 minutes. Break it up into two short 15-minute walks, such as a walk over lunch and again after dinner. You must exercise at least 45 minutes, three times a week.
+<p/>
+<b>Tracking your progress. </b> Enter the Protein, Water, and Exercise subscreens to track your progress. Touch below the “Enter for” area to enter your actual intake or performance. You can select making an entry for today or yesterday, as well as the amount. Select a negative number if you’ve entered too much for the day by accident. You’ll see your history in the lower portion of each screen. A gold bar means you met your goal; a silver bar means you earned 2 stars; a bronze bar is 1 star; and a black bar is something less than earning a star. Swipe right to return to the menu.
+<p/>
+<b>The Vitamins screen</b>  gives you the chance to toggle on or off if you’ve taken your daily vitamins. The history in the lower portion provides you that performance history.
+<p/>
+Use the <b>5-day Reset screen</b>  to guide you through the 5-day Pouch Test. Many WLS patients use this reset/test to get back on track by giving their sleeve, pouch, or band a rest for healing and restoration. See <a href=”http://www.5daypouchtest.com”> http://www.5daypouchtest.com</a> for more information.
+<p/>
+The<b> I’m Eating/I’m Feeling</b>  is the area to track your emotional eating. Be honest with yourself in this area and enter your slip-ups into the app. This data is not shared with anyone. It is important to try to understand when you’re eating, what you’re eating, and why you’re eating. Select the time (as well as today/yesterday) and then the eating/feeling data, then press the plus sign to add it to the history. If you’ve made a mistake and need to delete an entry, touch “All Entries” and then simply swipe left to edit it or delete. Swipe through the data visualization screens to gather insight into your emotional eating.
+<p/>
+Finally, the <b>history screen</b>  will show you the past sixty days of your overall performance in staying on track. If you’ve earned 10 stars for a day, that day’s bar will be gold!
+</html>
+    ]]></string>
+    <string name="str_eatfeel_explain">If you’re cheating, sneaking slider foods, or out of control, track that here to identify trends that you can correct.</string>
+    <string name="str_eatfeel_desc">Press below to enter when you’re cheating and what you’re feeling. Press “Add” or the plus sign to enter your data. Press “All Entries” to edit your previous entries.</string>
+    <string name="str_goalsetting_commondesc">Goal changes are effective today. You cannot change earlier goals.</string>
+    <string name="str_goalsetting_excercisedesc">You must exercise at least 30 minutes per day. Think: a 15-minute walk at lunch and again after dinner. You must exercise at least 45 minutes three times a week. Pick which days of the week you’ll exercise 45 minutes or more.</string>
+</resources>

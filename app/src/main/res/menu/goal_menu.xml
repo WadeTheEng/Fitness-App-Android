@@ -1,0 +1,6 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" tools:context=".MainMenuActivity">
+    <item android:id="@+id/goal_act_save" android:title="@string/action_save"
+        app:showAsAction="withText|ifRoom"/>
+</menu>
